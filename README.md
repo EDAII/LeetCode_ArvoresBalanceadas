@@ -62,4 +62,5 @@ Como resultado das execuções, obtive os seguintes tempos registrados para cada
 ## Apresentações de Resolução
 
 Apresentação em vídeo com demonstração da execução e dos testes realizados:  
-- [Link para o vídeo]()
+
+- [Apresentação](https://drive.google.com/file/d/1ouxlonBKQ-baGJ2CXEf41MPjRTFfkHTW/view)
