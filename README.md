@@ -44,6 +44,21 @@ O fluxo de utilização consiste em:
 
 ## Conclusões
 
+Como resultado das execuções, obtive os seguintes tempos registrados para cada questão em cada submissão:
+
+### 1373. Maximum Sum BST in Binary Tree
+![1373. Maximum Sum BST in Binary Tree](/screenshots/maximum-sum-bst-in-binary-tree.png)
+
+### 701. Insert into a Binary Search Tree
+![701. Insert into a Binary Search Tree](/screenshots/insert-into-a-binary-search-tree.png)
+
+### 1382. Balance a Binary Search Tree
+![1382. Balance a Binary Search Tree](/screenshots/balance-a-binary-search-tree.png)
+
+### Q17. Delete Node in a BST
+![Q17. Delete Node in a BST](/screenshots/delete-node-in-a-bst.png)
+
+
 ## Apresentações de Resolução
 
 Apresentação em vídeo com demonstração da execução e dos testes realizados:  
